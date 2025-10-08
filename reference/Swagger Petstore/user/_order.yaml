@@ -3,3 +3,4 @@
 - getuserbyname
 - updateuser
 - deleteuser
+- loginuser
