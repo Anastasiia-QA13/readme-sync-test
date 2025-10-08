@@ -19,30 +19,32 @@ next:
 ---
 # Ancient Greece Comes to Life :bulb:
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://cdn-imgix.headout.com/tour/25613/TOUR-IMAGE/a32ceaa6-7a36-4855-8af4-8da605cba026-13338-athens-acropolis-hill---museum-tickets-with-mobile-audioguide-10.jpg",
-        null,
-        "Once you see it, you'll be changed\n\n\n\n\n\n\n\n\n\n "
-      ],
-      "align": "center",
-      "sizing": "75% ",
-      "border": true,
-      "caption": "Once you see it, you'll be changed"
-    }
-  ]
-}
-[/block]
+<Image
+  alt="Once you see it, you'll be changed
+
+
+
+
+
+
+
+
+
+ "
+  align="center"
+  width="75% "
+  border={true}
+  src="https://cdn-imgix.headout.com/tour/25613/TOUR-IMAGE/a32ceaa6-7a36-4855-8af4-8da605cba026-13338-athens-acropolis-hill---museum-tickets-with-mobile-audioguide-10.jpg"
+>
+  Once you see it, you'll be changed
+</Image>
 
 ## Tour Details :tada:
 
 **What this tour includes:**
 
-- An hour long, audio-led tour of the Acropolis 🏛️ 
-- Admission to the Acropolis Museum (good for 48 hours from activating the tour) 🖼️ 
-- A personalized souvenir 🏆 
+* An hour long, audio-led tour of the Acropolis 🏛️ 
+* Admission to the Acropolis Museum (good for 48 hours from activating the tour) 🖼️ 
+* A personalized souvenir 🏆 
 
 📍 The tour starts [here](https://goo.gl/maps/McDXLoo7MUn5XLnXA)
