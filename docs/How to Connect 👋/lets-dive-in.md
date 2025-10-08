@@ -12,6 +12,4 @@ next:
 ---
 # Welcome :wave:
 
-
-
 ![](https://media.giphy.com/media/LScyfcEDfh65A5hVX3/giphy.gif)
