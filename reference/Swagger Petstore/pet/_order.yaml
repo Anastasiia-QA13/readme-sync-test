@@ -3,3 +3,4 @@
 - updatepet
 - findpetsbystatus
 - findpetsbytags
+- getpetbyid
