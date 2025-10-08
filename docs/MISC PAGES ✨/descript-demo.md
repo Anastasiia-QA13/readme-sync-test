@@ -14,23 +14,9 @@ next:
 Wow, is this a really cool thing :blossom:
 
 > 📘 What else can I add?
-> 
+>
 > Let's look at what's on the right?
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/920699c-Celebration-Confetti.psd.full.png",
-        null,
-        null
-      ],
-      "align": "center",
-      "sizing": "50% ",
-      "border": true,
-      "caption": "Owlbert celebrating!"
-    }
-  ]
-}
-[/block]
+<Image alt="Owlbert celebrating!" align="center" width="50% " border={true} src="https://files.readme.io/920699c-Celebration-Confetti.psd.full.png">
+  Owlbert celebrating!
+</Image>
