@@ -13,6 +13,4 @@ Taste your way through this bustling neighborhood, all while learning bits of hi
 
 ## For Visitors and Locals!
 
-
-
 ![](https://media.timeout.com/images/105813572/image.jpg)
