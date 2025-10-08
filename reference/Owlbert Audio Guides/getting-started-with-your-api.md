@@ -16,14 +16,12 @@ next:
 
 Owlbert Journey Maps integrates with the following major Podcast players:
 
-- Apple Podcasts
-- Google Podcasts
-- Spotify
-- Stitcher
-- Pocket Casts
-- PlayerFM
-
-
+* Apple Podcasts
+* Google Podcasts
+* Spotify
+* Stitcher
+* Pocket Casts
+* PlayerFM
 
 ## Authentication
 
