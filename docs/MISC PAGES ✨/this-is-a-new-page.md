@@ -16,26 +16,8 @@ next:
 ---
 # Welcome to the New Editor!!
 
-
-
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/ad26f2b-Celebration-Confetti.psd.full.png",
-        null,
-        null
-      ],
-      "align": "center",
-      "sizing": "200px",
-      "border": true,
-      "caption": "Owlbert with Confetti!"
-    }
-  ]
-}
-[/block]
-
-
+<Image alt="Owlbert with Confetti!" align="center" width="200px" border={true} src="https://files.readme.io/ad26f2b-Celebration-Confetti.psd.full.png">
+  Owlbert with Confetti!
+</Image>
 
 Hey there :wave:
