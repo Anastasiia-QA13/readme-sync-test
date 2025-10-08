@@ -12,11 +12,12 @@ next:
 ---
 | name | name | name |
 | :--- | :--- | :--- |
-| > 📘 hello
-> 
-> help     |      |      |
-|      |      |      |
+
+\| > 📘 hello
+
+> help     |      |      |\
+> \|      |      |      |
 
 > 📘 hello
-> 
+>
 > help
