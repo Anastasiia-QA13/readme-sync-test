@@ -13,13 +13,13 @@ next:
 | name | name | name |
 | :--- | :--- | :--- |
 
-| > 📘 hello
+\| > 📘 hello
 
-> help     |      |      |  
+> help     |      |      |\
 > \|      \|      \|      \|
 
 > 📘 hello
-> 
+>
 > help
 
 <AvailableInFrench />
