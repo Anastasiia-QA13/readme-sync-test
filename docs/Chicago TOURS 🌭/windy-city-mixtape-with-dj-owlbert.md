@@ -14,6 +14,4 @@ Blues and Hot Dogs...a match made in heaven? When it comes to the Windy City, th
 
 ![](https://files.readme.io/ed85359-chicago_blues.jpeg)
 
-
-
 # Windy City Mixtape Overview
