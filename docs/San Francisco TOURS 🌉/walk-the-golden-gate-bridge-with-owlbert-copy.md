@@ -10,7 +10,7 @@ metadata:
 next:
   description: ''
 ---
-# A New Way to See The City By the Bay :bridge-at-night:
+# A New Way to See The City By the Bay :bridge_at_night:
 
 Acclaimed as one of the world's most beautiful bridges, there are many different elements to the Golden Gate Bridge that make it unique. With its tremendous towers, sweeping cables, and great span, the Bridge is a sensory beauty and engineering wonder featuring color, sound and light.
 
