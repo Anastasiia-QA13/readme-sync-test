@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Example User API
+  title: Test Example User API
   version: 1.1.0
   description: This is a sample API spec for testing on-site upload.
 servers:
@@ -39,3 +39,5 @@ paths:
       responses:
         '201':
           description: User created successfully
+components: {}
+x-readme: {}
