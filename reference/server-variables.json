@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "Example User API",
+    "title": "Test ",
     "version": "1.1.0",
     "description": "This is a sample API spec for testing on-site upload."
   },
@@ -64,5 +64,7 @@
         }
       }
     }
-  }
+  },
+  "components": {},
+  "x-readme": {}
 }
