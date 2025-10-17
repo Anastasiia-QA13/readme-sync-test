@@ -16,4 +16,6 @@ Acclaimed as one of the world's most beautiful bridges, there are many different
 
 Want to keep your eyes fully on the surroundings? Check out our [Audio-only Guide for Golden Gate Bridge Walk](doc:audio-only-guide-for-golden-gate-bridge-walk)
 
-![](https://www.goldengate.org/assets/1/6/bridge.jpg)
+<Image border={false} src="https://www.goldengate.org/assets/1/6/bridge.jpg" />
+
+QA Testing 17/10/2025!!!!!!!
