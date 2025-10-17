@@ -38,12 +38,4 @@ next:
 
 <br />
 
-<Tabs>
-  <Tab title="Overview">
-    Here is some overview content.
-  </Tab>
-
-  <Tab title="Details">
-    Here is more detailed content.
-  </Tab>
-</Tabs>
+<br />
