@@ -10,12 +10,10 @@ metadata:
 next:
   description: ''
 ---
-```mdx
-<Hello />
-
-<Hello />
+## Podcast Integrations
+🎧 Works with all podcasting platforms!  
+Owlbert Audio Guides work on Spotify, Stitcher, Buzzsprout, and Apple Podcasts!
 
 > 📘 Works with all podcasting platforms!
->
 > Owlbert Audio Guides work on Spotify, Stitcher, Buzzsprout, and Apple Podcasts!
 ```
