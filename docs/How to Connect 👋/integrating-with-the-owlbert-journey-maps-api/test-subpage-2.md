@@ -10,4 +10,5 @@ metadata:
 next:
   description: ''
 ---
-<Hello />
+## Welcome to Owlbert's Journey Maps
+This is the mobile version page. 🎉
