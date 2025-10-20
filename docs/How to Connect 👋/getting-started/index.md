@@ -33,6 +33,18 @@ Welcome to the developer hub for Owlbert Journey Maps version 2. In addition to 
 
 This is a test paragraph added by QA.
 
+<br />
+
+## Test Section
+
+This is a test paragraph added by QA.
+
+<br />
+
+## Test Section
+
+This is a test paragraph added by QA.
+
 Well, not really...but sort of! Connect your app to Owlbert Journey Maps via our API to get Owlbert's personalized tips, hidden facts, and audio and video recordings to help personalize your trip in many major cities throughout the U.S. and cities abroad too.
 
 <Image align="center" border={true} width="30% " src="https://files.readme.io/f731c62-Sports.psd.png" className="border" />
