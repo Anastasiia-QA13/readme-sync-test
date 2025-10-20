@@ -12,7 +12,7 @@ next:
 ---
 Blues and Hot Dogs...a match made in heaven? When it comes to the Windy City, there's plenty to eat, and plenty of live music to take in. Plus tons of architectural sites, river walks, and great art. Why not let Owlbert accompany you?
 
-# What's Included
+# What's Included “Test sync from GitHub”
 
 Owlbert will take you on a guided walking tour of the following
 
