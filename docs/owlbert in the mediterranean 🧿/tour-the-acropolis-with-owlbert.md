@@ -17,7 +17,7 @@ next:
       slug: a-day-at-the-louvre-with-owlbert
       title: A Day at the Louvre with Owlbert
 ---
-# Ancient Greece Comes to Life :bulb:“Test sync from GitHub”
+# Ancient Greece Comes to Life :bulb:“Test sync from GitHub”/
 
 <Image
   alt="Once you see it, you'll be changed
