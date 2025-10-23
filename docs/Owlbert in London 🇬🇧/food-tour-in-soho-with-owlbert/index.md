@@ -3,6 +3,7 @@ title: Food Tour in Soho With Owlbert!!!!!!!
 excerpt: ''
 deprecated: false
 hidden: false
+icon: 🥙
 metadata:
   title: ''
   description: ''
