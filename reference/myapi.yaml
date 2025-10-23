@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: QA Test API
+  title: QA Test API    test
   description: Simple test API for ReadMe upload verification
   version: 1.0.0
 servers:
@@ -65,3 +65,5 @@ paths:
                   status:
                     type: string
                     example: OK
+components: {}
+x-readme: {}
