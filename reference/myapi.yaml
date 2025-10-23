@@ -1,15 +1,15 @@
 openapi: 3.0.3
 info:
-  title: QA Test API    test
-  description: Simple test API for ReadMe upload verification
-  version: 1.0.0
+  title: Example User API
+  version: 1.1.0
+  description: This is a sample API spec for testing on-site upload.
 servers:
-  - url: https://api.testserver.com
+  - url: https://api.example.com/v1
 paths:
   /users:
     get:
-      summary: Get list of users
-      operationId: getUsers
+      summary: Get all users
+      description: Returns a list of users.
       responses:
         '200':
           description: Successful response
@@ -22,48 +22,20 @@ paths:
                   properties:
                     id:
                       type: integer
-                      example: 1
                     name:
                       type: string
-                      example: John Doe
-  /users/{id}:
-    get:
-      summary: Get user by ID
-      operationId: getUserById
-      parameters:
-        - name: id
-          in: path
-          required: true
-          schema:
-            type: integer
+    post:
+      summary: Create a new user
+      description: Adds a new user to the system.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
       responses:
-        '200':
-          description: User details returned successfully
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  id:
-                    type: integer
-                    example: 1
-                  name:
-                    type: string
-                    example: John Doe
-  /status:
-    get:
-      summary: Check API status
-      operationId: checkStatus
-      responses:
-        '200':
-          description: API is running
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  status:
-                    type: string
-                    example: OK
-components: {}
-x-readme: {}
+        '201':
+          description: User created successfully
