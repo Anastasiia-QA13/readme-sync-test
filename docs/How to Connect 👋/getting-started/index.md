@@ -25,11 +25,11 @@ Welcome to the developer hub for Owlbert Journey Maps version 2. In addition to 
 >
 > Owlbert Audio Guides work on Spotify, Stitcher, Buzzsprout, and Apple Podcasts!
 
-# Take Owlbert in Your Pocket
+# Take Owlbert in Your Pocket QA Sync Test: ReadMe → Repo
 
 Well, not really...but sort of! Connect your app to Owlbert Journey Maps via our API to get Owlbert's personalized tips, hidden facts, and audio and video recordings to help personalize your trip in many major cities throughout the U.S. and cities abroad too.
 
-<Image align="center" className="border" width="30% " border={true} src="https://files.readme.io/f731c62-Sports.psd.png" />
+<Image align="center" border={true} width="30% " src="https://files.readme.io/f731c62-Sports.psd.png" className="border" />
 
 ## Owlbert Walking Guides 🚶‍♀️
 
@@ -43,7 +43,7 @@ We believe the best way to see a city is by walking 👣, and why not do that wi
 
 ## Owlbert Audio Guides 🎧
 
-Owlbert's a real hoot (get it?!). But really, Owlbert's audio guides make it even easier—and lots more fun—to navigate a new city. Owlbert's audio guides are like if an audio book and a music playlist had a baby. They're fact-filled and song-filled, and perfect for listening to on the go! Sync Owlbert's audio guides with all of the major podcasting and music apps via our API. 
+Owlbert's a real hoot (get it?!). But really, Owlbert's audio guides make it even easier—and lots more fun—to navigate a new city. Owlbert's audio guides are like if an audio book and a music playlist had a baby. They're fact-filled and song-filled, and perfect for listening to on the go! Sync Owlbert's audio guides with all of the major podcasting and music apps via our API.
 
 <Podcasts />
 
@@ -53,4 +53,4 @@ Owlbert Journey Maps are a great way to spruce up any trip and make it more fun!
 
 :blue_heart:
 
-![This won't be fun to clean up...](https://owlbert.io/images/popper.gif)
+<Image alt="This won't be fun to clean up..." border={false} src="https://owlbert.io/images/popper.gif" />
