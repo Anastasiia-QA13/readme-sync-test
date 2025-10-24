@@ -3,6 +3,7 @@ title: Chinatown Food Tour with Owlbert!
 excerpt: ''
 deprecated: false
 hidden: false
+icon: 🎎
 metadata:
   title: ''
   description: ''
