@@ -2,6 +2,7 @@
 title: 'Test Subpage '
 deprecated: false
 hidden: false
+icon: 🤩
 metadata:
   robots: index
 ---
