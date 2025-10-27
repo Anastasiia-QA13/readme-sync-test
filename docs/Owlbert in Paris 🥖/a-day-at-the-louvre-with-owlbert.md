@@ -9,7 +9,13 @@ metadata:
   description: ''
   robots: index
 next:
-  description: ''
+  pages:
+    - slug: testing
+      title: Testing!
+      type: basic
+    - slug: get_new-endpoint-3
+      title: New Endpoint
+      type: endpoint
 ---
 # Owlbert Goes International!
 
