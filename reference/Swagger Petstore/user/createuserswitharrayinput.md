@@ -1,5 +1,5 @@
 ---
-title: Creates list of users with given input array
+title: “Updated by admin”
 excerpt: ''
 api:
   file: swagger-petstore.json
