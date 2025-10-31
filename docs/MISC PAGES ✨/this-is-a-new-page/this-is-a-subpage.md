@@ -15,3 +15,8 @@ Central Park: A large urban park in Manhattan, providing a green oasis in the mi
 Wall Street: The financial heart of the city and the country, home to the New York Stock Exchange and many other financial institutions.
 Statue of Liberty: A global symbol of freedom and a famous landmark.
 Empire State Building: One of the world's most iconic skyscrapers.
+
+New York is the most populous city in the United States, with over 8 million inhabitants.
+It is comprised of five boroughs: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island.
+Many bridges connect the different parts of the city.
+New York is considered a major global center for international diplomacy, commerce, culture, finance, and technology.
