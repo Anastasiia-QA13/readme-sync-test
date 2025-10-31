@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: 1.0.0
-  title: Simple Petstore
+  title: Simple Petstore 2
   description: This is a slimmed down single path version of the Petstore definition.
 servers:
   - url: https://httpbin.org
@@ -37,3 +37,4 @@ components:
     apiKey:
       type: http
       scheme: basic
+x-readme: {}
