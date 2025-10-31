@@ -1,41 +1,39 @@
-openapi: 3.0.3
+openapi: 3.0.0
 info:
-  title: Example User API
-  version: 1.1.0
-  description: This is a sample API spec for testing on-site upload.
+  version: 1.0.0
+  title: Simple Petstore
+  description: This is a slimmed down single path version of the Petstore definition.
 servers:
-  - url: https://api.example.com/v1
+  - url: https://httpbin.org
 paths:
-  /users:
-    get:
-      summary: Get all users
-      description: Returns a list of users.
-      responses:
-        '200':
-          description: Successful response
-          content:
-            application/json:
-              schema:
-                type: array
-                items:
-                  type: object
-                  properties:
-                    id:
-                      type: integer
-                    name:
-                      type: string
-    post:
-      summary: Create a new user
-      description: Adds a new user to the system.
-      requestBody:
+  /pet/{id}:
+    parameters:
+      - name: id
+        in: path
         required: true
-        content:
-          application/json:
-            schema:
-              type: object
-              properties:
-                name:
-                  type: string
+        schema:
+          type: integer
+    put:
+      tags:
+        - pet
+      summary: Update a pet
+      description: This operation will update a pet in the database.
       responses:
-        '201':
-          description: User created successfully
+        '400':
+          description: Invalid id value
+      security:
+        - apiKey: []
+    get:
+      tags:
+        - pet
+      summary: Find a pet
+      description: This operation will find a pet in the database.
+      responses:
+        '400':
+          description: Invalid status value
+      security: []
+components:
+  securitySchemes:
+    apiKey:
+      type: http
+      scheme: basic
