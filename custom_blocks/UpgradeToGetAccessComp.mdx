@@ -1,0 +1,22 @@
+---
+name: UpgradeToGetAccessComp
+---
+export default function InfoBox({ title = "Information", message = "This is an example of an existing custom component block." }) {
+  return (
+    <div
+      style={{
+        backgroundColor: '#E7F5FF',
+        borderLeft: '4px solid #339AF0',
+        padding: '1rem',
+        borderRadius: '6px',
+        fontFamily: 'Inter, sans-serif',
+        margin: '1rem 0'
+      }}
+    >
+      <h4 style={{ margin: '0 0 0.5rem 0', color: '#1C7ED6' }}>
+        📘 {title}
+      </h4>
+      <p style={{ margin: 0, color: '#333' }}>{message}</p>
+    </div>
+  );
+}
