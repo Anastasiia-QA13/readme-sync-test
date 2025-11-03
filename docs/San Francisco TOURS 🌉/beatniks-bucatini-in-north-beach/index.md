@@ -1,6 +1,6 @@
 ---
 title: Beatniks & Bucatini in North Beach!
-excerpt: ''
+excerpt: Test..////
 deprecated: false
 hidden: false
 metadata:
