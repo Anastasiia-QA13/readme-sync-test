@@ -1,0 +1,22 @@
+---
+name: TestWarning
+---
+export default function WarningBox({ title = "Warning", message = "Please double-check this information before proceeding." }) {
+  return (
+    <div
+      style={{
+        backgroundColor: '#FFF3CD',
+        borderLeft: '4px solid #FFC107',
+        padding: '1rem',
+        borderRadius: '6px',
+        fontFamily: 'Inter, sans-serif',
+        margin: '1rem 0'
+      }}
+    >
+      <h4 style={{ margin: '0 0 0.5rem 0', color: '#856404' }}>
+        ⚠️ {title}
+      </h4>
+      <p style={{ margin: 0, color: '#5C4C10' }}>{message}</p>
+    </div>
+  );
+}
