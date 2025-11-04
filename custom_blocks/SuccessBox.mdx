@@ -1,0 +1,23 @@
+---
+name: SuccessBox
+---
+export default function SuccessBox({ title = "Success", message = "Your action was completed successfully!" }) {
+  return (
+    <div
+      style={{
+        backgroundColor: '#D4EDDA',
+        borderLeft: '4px solid #28A745',
+        padding: '1rem',
+        borderRadius: '6px',
+        fontFamily: 'Inter, sans-serif',
+        margin: '1rem 0'
+      }}
+    >
+      <h4 style={{ margin: '0 0 0.5rem 0', color: '#155724' }}>
+        ✅ {title}
+      </h4>
+      <p style={{ margin: 0, color: '#1B4D2B' }}>{message}</p>
+    </div>
+  );
+}
+
