@@ -1,0 +1,22 @@
+---
+name: NoteBox
+---
+export default function NoteBox({ title = "Note", message = "Here's an additional tip or helpful piece of information." }) {
+  return (
+    <div
+      style={{
+        backgroundColor: '#F8F9FA',
+        borderLeft: '4px solid #6C757D',
+        padding: '1rem',
+        borderRadius: '6px',
+        fontFamily: 'Inter, sans-serif',
+        margin: '1rem 0'
+      }}
+    >
+      <h4 style={{ margin: '0 0 0.5rem 0', color: '#343A40' }}>
+        💬 {title}
+      </h4>
+      <p style={{ margin: 0, color: '#495057' }}>{message}</p>
+    </div>
+  );
+}
