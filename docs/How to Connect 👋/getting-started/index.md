@@ -3,6 +3,7 @@ title: Getting Started with Owlbert's Journey Maps
 excerpt: See and taste the sights with Owlbert! Learn lots of history and fun facts :)
 deprecated: false
 hidden: false
+icon: 🫥
 metadata:
   title: ''
   description: ''
@@ -71,4 +72,8 @@ Owlbert Journey Maps are a great way to spruce up any trip and make it more fun!
 
 :blue_heart:
 
-<Image alt="This won't be fun to clean up..." border={false} src="https://owlbert.io/images/popper.gif" />
+```
+test
+test
+https://api.myproject.com
+```
