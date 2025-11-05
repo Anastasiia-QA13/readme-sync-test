@@ -19,3 +19,11 @@ Want to keep your eyes fully on the surroundings? Check out our [Audio-only Guid
 <Image border={false} src="https://www.goldengate.org/assets/1/6/bridge.jpg" />
 
 QA Testing 17/10/2025!!!!!!!
+
+<br />
+
+<Callout icon="🗯️" theme="default">
+  ### Habla Español?
+
+  Good news for you! This guide is also available in Spanish!
+</Callout>
