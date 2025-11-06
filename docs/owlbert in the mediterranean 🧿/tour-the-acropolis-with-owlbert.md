@@ -50,8 +50,6 @@ next:
 
 <Image border={false} src="https://files.readme.io/57bb9126a1b5e9528d81c5ceec14035504ee7577b88ca24c45022b00fadfa655-image.png" />
 
-<Image border={false} src="https://files.readme.io/578adda23dc79442e3e4fa31568b888a9b856486891a404c78b0a87ba4e3d98c-image.png" />
-
 A tour of the Acropolis is an exploration of ancient Athenian history, featuring iconic structures like the Parthenon, dedicated to the goddess Athena. The site is a UNESCO World Heritage site and a major tourist attraction, with key buildings also including the Erechtheion, the Propylaia, and the Temple of Athena Nike. To make the most of your visit, consider arriving early or late to avoid crowds, exploring the nearby Acropolis Museum for artifacts, and being aware of the site's open-air.
 
 Key landmarks
