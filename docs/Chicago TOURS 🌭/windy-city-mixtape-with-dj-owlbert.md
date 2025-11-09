@@ -18,6 +18,10 @@ Owlbert will take you on a guided walking tour of the following
 
 Each stop includes:
 
-![](https://files.readme.io/ed85359-chicago_blues.jpeg)
+<Image border={false} src="https://files.readme.io/ed85359-chicago_blues.jpeg" />
 
 # Windy City Mixtape Overview
+
+<Image border={false} src="https://files.readme.io/82082014c9361bb427a7865e35809cba41d32271b67371b52e95d24efcdc3715-image.png" />
+
+<br />
