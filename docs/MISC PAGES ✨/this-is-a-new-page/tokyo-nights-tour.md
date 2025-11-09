@@ -10,6 +10,10 @@ metadata:
 next:
   description: ''
 ---
+<Image border={false} src="https://files.readme.io/99b8330d662477a7710995af58e1dcafbf9d759471c2dc0c42d7194943ccd3ea-image.png" />
+
+<br />
+
 Tokyo: A dynamic blend of tradition and modernity
 Tokyo, the capital and largest city of Japan, is a sprawling metropolis that masterfully combines ancient traditions with futuristic innovation. As the world's most populous metropolitan area, it is a city of endless energy, where serene temples and historic gardens stand in the shadow of towering skyscrapers.
 The city's history is deeply rooted in the Edo period, when it was a small fishing village. After becoming the political center under the Tokugawa shogunate in 1603, it grew rapidly and was renamed "Tokyo" or "Eastern Capital" in 1868. Today, the city offers a wide array of experiences for visitors.
