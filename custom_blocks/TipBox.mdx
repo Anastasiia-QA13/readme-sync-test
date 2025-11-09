@@ -1,0 +1,22 @@
+---
+name: TipBox
+---
+export default function TipBox({ title = "Tip", message = "Here’s a helpful tip to improve your workflow!" }) {
+  return (
+    <div
+      style={{
+        backgroundColor: '#E3FCEC',
+        borderLeft: '4px solid #37B24D',
+        padding: '1rem',
+        borderRadius: '6px',
+        fontFamily: 'Inter, sans-serif',
+        margin: '1rem 0'
+      }}
+    >
+      <h4 style={{ margin: '0 0 0.5rem 0', color: '#2B8A3E' }}>
+        💡 {title}
+      </h4>
+      <p style={{ margin: 0, color: '#2F4F2F' }}>{message}</p>
+    </div>
+  );
+}
