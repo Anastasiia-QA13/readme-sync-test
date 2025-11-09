@@ -12,3 +12,7 @@ metadata:
 <Image border={false} src="https://files.readme.io/8b49ceed2752949bfec8e97b1d87b428b98237ad71fd0c1fed4c90a57d5d5305-image.png" />
 
 <br />
+
+<TipBox />
+
+<br />
