@@ -1,0 +1,16 @@
+---
+name: DeprecationNotice
+---
+export default function DeprecationNotice({ sunset = "2026-01-01", replaceWith = "" }) {
+  return (
+    <div style={{
+      background: '#FFF5F5', borderLeft: '4px solid #FA5252',
+      padding: '1rem', borderRadius: 6, margin: '1rem 0', fontFamily: 'Inter, sans-serif'
+    }}>
+      <strong>Deprecation notice:</strong> This endpoint will be removed on <code>{sunset}</code>.
+      {replaceWith && <> Use <code>{replaceWith}</code> instead.</>}
+    </div>
+  );
+}
+
+
