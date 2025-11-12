@@ -16,3 +16,7 @@ Suitable for all levels: The paths are largely level and easy to navigate, makin
 Boundless possibilities: The interconnected canal network means you can easily extend your route or explore a new section.
 Preparation is key: It is important to check weather conditions and bring appropriate footwear and other equipment, as towpath surfaces can vary depending on the time of year and weather.
 Finding a walk: You can explore the local towpath or use resources like the Canal & River Trust's route map to find dedicated walking routes.
+
+<Image border={false} src="https://files.readme.io/fa4d4750499e620d8e0bced0ee83c476641c9c2ce950c9707404ae0e908ffa06-image.png" />
+
+<br />
