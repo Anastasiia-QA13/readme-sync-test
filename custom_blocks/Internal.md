@@ -5,7 +5,7 @@ name: Internal
 
 ### 🧪 QA Checklist
 
-* [ ] Verify “Try It” works for each endpoint
+* [x] Verify “Try It” works for each endpoint
 * [ ] Confirm API Explorer loads properly
 * [ ] Ensure responses match OpenAPI spec
 * [ ] Check for 401 when token is missing
