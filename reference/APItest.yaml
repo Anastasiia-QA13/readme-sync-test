@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Example Product API
+  title: Example Product API2
   version: 1.0.0
   description: This is a new sample API spec for testing creation of a new API definition.
 servers:
