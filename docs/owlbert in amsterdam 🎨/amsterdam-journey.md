@@ -15,3 +15,7 @@ Geography and Layout: Located in the province of North Holland in the western Ne
 History: Originating as a 13th-century fishing village with a dam on the Amstel River, Amsterdam became the leading commercial and financial center of the Western world during the 17th-century Dutch Golden Age. Its history as a global trading port is evident in the grand canal houses and significant museums.
 Culture and Lifestyle: Amsterdam is known for its open-minded and tolerant atmosphere, which is reflected in its diverse population of over 180 nationalities. A vibrant cycling culture is central to local life, with more bicycles in the city than people. The city is also known for its "coffeeshops" and the Red Light District, which operate under a policy of tolerance.
 Attractions: Millions of visitors are drawn to Amsterdam's world-class museums, including the Rijksmuseum (home to Dutch masterpieces), the Van Gogh Museum, and the poignant Anne Frank House. Other major attractions include the Royal Palace in Dam Square, the floating flower market (Bloemenmarkt), and the large Vondelpark
+
+<Image border={false} src="https://files.readme.io/8f9a43b94f172815b10c69a39a0796375f7bc418154064d14018a13a6ef330b4-image.png" />
+
+<br />
