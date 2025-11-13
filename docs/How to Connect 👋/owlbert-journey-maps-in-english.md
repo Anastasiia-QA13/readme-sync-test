@@ -42,6 +42,8 @@ The city also hosts the world-renowned Smithsonian Institution, which comprises 
 
 **Goal: "What does this API do and is it right for my needs?"**
 
+<br />
+
 <Accordion title="Discovery Journey Map" icon="search">
   **Touchpoints:**
 
