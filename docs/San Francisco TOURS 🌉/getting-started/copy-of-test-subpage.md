@@ -14,4 +14,6 @@ Just for a testing.
 
 <Image border={false} src="https://files.readme.io/118b60c618b2dc9856419cd63d48aa5910ebcc4f61073a0dd3c1f0ba540a7b5a-image.png" />
 
+<Image border={false} src="https://files.readme.io/8afe16fd6a9ab7c432a714e3fc908e9af1f69257e3d720c08e1f03e658cb1f6d-image.png" />
+
 <br />
