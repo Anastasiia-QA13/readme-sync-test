@@ -2,6 +2,7 @@
 title: '[English Version] Owlbert Journey Maps'
 deprecated: false
 hidden: false
+icon: 🫢
 link:
   new_tab: false
 metadata:
