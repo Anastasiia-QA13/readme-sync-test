@@ -1,0 +1,163 @@
+openapi: 3.0.3
+info:
+  title: Users API
+  version: 1.0.0
+  description: API для створення та керування користувачами.
+servers:
+  - url: https://api.example.com
+    description: Prod
+  - url: http://localhost:3000
+    description: Local
+tags:
+  - name: Users
+    description: Операції з користувачами
+paths:
+  /users:
+    post:
+      tags:
+        - Users
+      summary: Створити користувача
+      description: Створює нового користувача та повертає його дані.
+      operationId: createUser
+      security:
+        - BearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserCreate'
+            examples:
+              basic:
+                value:
+                  email: jane.doe@example.com
+                  password: S3cureP@ssw0rd
+                  name: Jane Doe
+                  role: user
+      responses:
+        '201':
+          description: Користувача створено
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+              examples:
+                created:
+                  value:
+                    id: usr_01J2X3Y4Z5
+                    email: jane.doe@example.com
+                    name: Jane Doe
+                    role: user
+                    createdAt: '2025-11-06T10:15:30Z'
+        '400':
+          description: Некоректні дані
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+              examples:
+                invalid_email:
+                  value:
+                    code: VALIDATION_ERROR
+                    message: email is invalid
+        '401':
+          description: Немає або невалідний токен доступу
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+              examples:
+                unauthorized:
+                  value:
+                    code: UNAUTHORIZED
+                    message: Missing or invalid Authorization header
+        '409':
+          description: Користувач з таким email уже існує
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+              examples:
+                conflict:
+                  value:
+                    code: EMAIL_TAKEN
+                    message: User with this email already exists
+        '500':
+          description: Внутрішня помилка сервера
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+components:
+  securitySchemes:
+    BearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+  schemas:
+    UserCreate:
+      type: object
+      required:
+        - email
+        - password
+        - name
+      properties:
+        email:
+          type: string
+          format: email
+          example: user@example.com
+        password:
+          type: string
+          minLength: 8
+          example: S3cureP@ssw0rd
+        name:
+          type: string
+          example: Jane Doe
+        role:
+          type: string
+          enum:
+            - user
+            - admin
+          default: user
+      additionalProperties: false
+    User:
+      type: object
+      required:
+        - id
+        - email
+        - name
+        - role
+        - createdAt
+      properties:
+        id:
+          type: string
+          example: usr_01J2X3Y4Z5
+        email:
+          type: string
+          format: email
+          example: jane.doe@example.com
+        name:
+          type: string
+          example: Jane Doe
+        role:
+          type: string
+          enum:
+            - user
+            - admin
+          example: user
+        createdAt:
+          type: string
+          format: date-time
+          example: '2025-11-06T10:15:30Z'
+    Error:
+      type: object
+      required:
+        - code
+        - message
+      properties:
+        code:
+          type: string
+          example: VALIDATION_ERROR
+        message:
+          type: string
+          example: email is invalid
