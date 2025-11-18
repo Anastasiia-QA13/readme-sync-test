@@ -20,7 +20,7 @@ next:
       slug: windy-city-mixtape-with-dj-owlbert
       title: Windy City Mixtape with DJ Owlbert
 ---
-![](https://files.readme.io/b6942e2-Things-To-Do-In-The-Lower-east-side-181017130136014-1600x960.jpeg)
+<Image border={false} src="https://files.readme.io/b6942e2-Things-To-Do-In-The-Lower-east-side-181017130136014-1600x960.jpeg" />
 
 # Bagels, Pizza, Pastrami, Oh My!
 
@@ -42,3 +42,9 @@ Each stop includes:
 * Click-to-add options for Google Maps, Instagram, Yelp, and more!
 
 <AudioGuideAvailability />
+
+<br />
+
+### 💬 Need Help?
+
+<br />
