@@ -1,9 +1,14 @@
 ---
-title: A Day at the Louvre with Owlbert
-excerpt: ''
+title: Une Journée au Louvre avec Owlbert
+excerpt: >-
+  Suivez Owlbert dans sa visite internationale au musée du Louvre à Paris,
+  découvrez l'histoire fascinante de ce palais royal devenu l'un des musées les
+  plus célèbres au monde.
 deprecated: false
 hidden: false
 icon: 👽
+link:
+  new_tab: false
 metadata:
   title: ''
   description: ''
@@ -17,18 +22,24 @@ next:
       title: New Endpoint
       type: endpoint
 ---
-# Owlbert Goes International!
+# Owlbert Devient International !
 
 <br />
 
 <Image border={false} src="https://files.readme.io/0d66274fd274b8ac86c129c797f05bc39021227527d8f8d242583e2685b87ea2-image.png" />
 
-The Louvre, or the Louvre Museum, is one of the world's largest and most famous art museums, housed in the historic Louvre Palace in Paris, France. Originally built as a fortress in the late 12th century, it evolved into a royal palace and finally opened as a public museum in 1793.
-The building's history
-Fortress to Palace: The site was initially a military fort built by King Philip II in the 12th century. Over the centuries, the fortress was expanded and modified by various French kings.
-Royal Residence: In the 14th century, King Charles V converted it into a royal residence. Later, Francis I began rebuilding it in the French Renaissance style in 1546.
-Move to Versailles: King Louis XIV moved the royal court to the Palace of Versailles in 1682, and the Louvre was left to house the royal art collection.
-Public Museum: During the French Revolution, the Louvre was transformed into a public museum, and it officially opened in 1793.
-Modern Landmark: Today, the museum is easily recognizable by the glass pyramid designed by architect I.M. Pei, which serves as the main entrance.
+Le Louvre, ou musée du Louvre, est l'un des musées d'art les plus grands et les plus célèbres au monde, situé dans l'historique palais du Louvre à Paris, France. Construit à l'origine comme une forteresse à la fin du XIIe siècle, il a évolué pour devenir un palais royal et a finalement ouvert ses portes au public en tant que musée en 1793.
+
+## L'histoire du bâtiment
+
+**De Forteresse à Palais :** Le site était initialement un fort militaire construit par le roi Philippe II au XIIe siècle. Au fil des siècles, la forteresse fut agrandie et modifiée par divers rois de France.
+
+**Résidence Royale :** Au XIVe siècle, le roi Charles V la convertit en résidence royale. Plus tard, François Ier commença sa reconstruction dans le style Renaissance française en 1546.
+
+**Déménagement à Versailles :** Le roi Louis XIV déplaça la cour royale au château de Versailles en 1682, et le Louvre fut laissé pour abriter la collection d'art royale.
+
+**Musée Public :** Pendant la Révolution française, le Louvre fut transformé en musée public, et il ouvrit officiellement en 1793.
+
+**Monument Moderne :** Aujourd'hui, le musée est facilement reconnaissable par la pyramide de verre conçue par l'architecte I.M. Pei, qui sert d'entrée principale.
 
 <br />
