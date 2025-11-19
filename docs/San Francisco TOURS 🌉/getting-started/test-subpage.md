@@ -10,6 +10,10 @@ Just for a testing.
 
 <br />
 
+<Image border={false} src="https://files.readme.io/5c64db90afade26ca42e1b9ca8da64e84db30f365b196aa6d283ab117e0bb610-image.png" />
+
+<br />
+
 Preparing for Your Food Tour
 Getting ready for a food tour involves a few practical steps to ensure you have the best experience. First, consider what to bring with you. Comfortable shoes are a must since you will likely be walking quite a bit. A small bottle of water can keep you hydrated between tastings. Bringing a camera or a smartphone is also a good idea to capture memorable moments and dishes. It’s also helpful to have a small bag or backpack to carry any purchases or souvenirs you might collect along the way.
 
