@@ -13,4 +13,4 @@ next:
 ---
 <Anastasiia />
 
-<AvailableInFrench />
+Test
