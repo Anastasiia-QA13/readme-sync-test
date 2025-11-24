@@ -3,6 +3,7 @@ title: Tokyo Nights Tour
 excerpt: ''
 deprecated: false
 hidden: false
+icon: 😍
 metadata:
   title: ''
   description: ''
