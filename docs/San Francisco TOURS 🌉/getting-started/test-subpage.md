@@ -21,4 +21,6 @@ Lastly, having an open mind and appetite is essential for making the most of you
 
 Once you’ve decided on your food tour, you can also check this article in which we bring 10 insider tips for an unforgettable experience. And this one also, for more curiosities on food tours.
 
+<Image border={false} src="https://files.readme.io/609a971dea7aa5a8aefa7f72c86805963234d568e716d0fff8ad552d9a538de7-image.png" />
+
 <br />
