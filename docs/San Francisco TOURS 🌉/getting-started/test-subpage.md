@@ -23,4 +23,6 @@ Once you’ve decided on your food tour, you can also check this article in whic
 
 <Image border={false} src="https://files.readme.io/609a971dea7aa5a8aefa7f72c86805963234d568e716d0fff8ad552d9a538de7-image.png" />
 
+<Image border={false} src="https://files.readme.io/0f8873cdc9ed4c20975d89b3be00596ecca63b10755e9a06efdfbd2ba25bf9d3-image.png" />
+
 <br />
