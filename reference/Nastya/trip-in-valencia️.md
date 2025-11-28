@@ -20,3 +20,5 @@ Gastronomy: Valencia is the birthplace of paella. Visitors can also explore the 
 Geography and demographics
 Location: Valencia is located on the Mediterranean coast at the mouth of the Turia River.
 Population: It is the third-largest city in Spain, with a population of over 800,000 people in the city proper.
+
+<br />
