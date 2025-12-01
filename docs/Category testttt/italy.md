@@ -23,7 +23,7 @@ In the heart of Tuscany, where the Arno River winds through hills painted in sha
 As dawn breaks over the terracotta rooftops, the city awakens like a masterpiece coming to life. The **Duomo** stands majestically against the morning sky, its iconic dome designed by Brunelleschi rising like a crown above the medieval streets. The cathedral's white, pink, and green marble facade catches the first rays of sunlight, transforming the entire Piazza del Duomo into a canvas of warm, ethereal light.
 
 <Accordion title="The Story Behind the Duomo" icon="church">
-The Cathedral of Santa Maria del Fiore took over 140 years to complete. Its massive dome, completed in 1436, was an architectural marvel that defied the engineering knowledge of its time. Brunelleschi's ingenious design remains one of the largest masonry domes ever built.
+  The Cathedral of Santa Maria del Fiore took over 140 years to complete. Its massive dome, completed in 1436, was an architectural marvel that defied the engineering knowledge of its time. Brunelleschi's ingenious design remains one of the largest masonry domes ever built.
 </Accordion>
 
 ### Crossing the Ponte Vecchio
@@ -34,6 +34,7 @@ No story of Florence would be complete without a stroll across the **Ponte Vecch
   <Card title="Art & Culture" icon="palette">
     Home to the Uffizi Gallery, Accademia Gallery, and countless Renaissance masterpieces by Michelangelo, Leonardo da Vinci, and Botticelli.
   </Card>
+
   <Card title="Culinary Delights" icon="utensils">
     Savor authentic Tuscan cuisine, from hearty ribollita soup to perfectly grilled bistecca alla fiorentina, paired with local Chianti wines.
   </Card>
@@ -45,16 +46,17 @@ Walking through the narrow streets of **Oltrarno**, you can almost hear the echo
 
 <Tabs>
   <Tab title="Must-See Art">
-    - **Michelangelo's David** at the Accademia Gallery
-    - **Birth of Venus** by Botticelli at the Uffizi
-    - **Gates of Paradise** by Ghiberti at the Baptistery
-    - Frescoes in the **Basilica of Santa Croce**
+    * **Michelangelo's David** at the Accademia Gallery
+    * **Birth of Venus** by Botticelli at the Uffizi
+    * **Gates of Paradise** by Ghiberti at the Baptistery
+    * Frescoes in the **Basilica of Santa Croce**
   </Tab>
+
   <Tab title="Hidden Gems">
-    - **Boboli Gardens** for panoramic city views
-    - **San Miniato al Monte** for sunset contemplation
-    - **Mercato di Sant'Ambrogio** for authentic local atmosphere
-    - **Palazzo Pitti** and its magnificent Renaissance apartments
+    * **Boboli Gardens** for panoramic city views
+    * **San Miniato al Monte** for sunset contemplation
+    * **Mercato di Sant'Ambrogio** for authentic local atmosphere
+    * **Palazzo Pitti** and its magnificent Renaissance apartments
   </Tab>
 </Tabs>
 
@@ -78,6 +80,10 @@ Florence is more than a destination—it's a feeling, a moment suspended in time
 
 This is a city that doesn't just show you art; it makes you part of its eternal story, weaving your memories into the rich tapestry of Renaissance dreams that continue to inspire the world.
 
----
+***
 
-*In Florence, every street corner holds a secret, every church tells a story, and every sunset promises that tomorrow's discoveries will be just as magical as today's wonders.*
+_In Florence, every street corner holds a secret, every church tells a story, and every sunset promises that tomorrow's discoveries will be just as magical as today's wonders._
+
+<Image border={false} src="https://files.readme.io/29e4b7a3705e33790882005fac46989ac423f1e7a3d8220c02e3c5a47d06109b-image.png" />
+
+<br />
