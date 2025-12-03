@@ -6,7 +6,7 @@ icon: 🤩
 metadata:
   robots: index
 ---
-Just for a testing.
+Test page.
 
 <br />
 
@@ -14,4 +14,4 @@ Just for a testing.
 
 <Image border={false} src="https://files.readme.io/118b60c618b2dc9856419cd63d48aa5910ebcc4f61073a0dd3c1f0ba540a7b5a-image.png" />
 
-QA Testing 
+QA Testing
