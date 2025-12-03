@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Users API.
+  title: Users API
   version: 1.0.0
   description: API для створення та керування користувачами.
 servers:
