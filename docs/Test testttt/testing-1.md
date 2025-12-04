@@ -6,4 +6,3 @@ icon: 🫢
 metadata:
   robots: index
 ---
-testttt
