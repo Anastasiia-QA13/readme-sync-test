@@ -34,8 +34,6 @@ next:
 
 <AvailableInFrench />
 
-<Image border={false} src="https://files.readme.io/fba2f95ce3eabc8a7c4b86e9276aaf853837bb54a61f19e6a420889d68810f2f-image.png" />
-
 <br />
 
 <br />
