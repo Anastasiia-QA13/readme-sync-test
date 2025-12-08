@@ -25,4 +25,6 @@ Peking Duck: Considered a national dish in China, Peking duck is an iconic offer
 
 <Image border={false} src="https://files.readme.io/23e19cf8866ffdec88d47a5d38585331faf998673c9979b4806e32970fbeef28-image.png" />
 
+<Image border={false} src="https://files.readme.io/d94de6bf493990868a290ca3454d7aa77bee25ea15ed46a536be0b18cffd9cdf-image.png" />
+
 <br />
