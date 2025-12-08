@@ -1,6 +1,5 @@
 ---
 title: A Day at the Met with Owlbert!
-excerpt: test
 deprecated: false
 hidden: false
 icon: 😺
