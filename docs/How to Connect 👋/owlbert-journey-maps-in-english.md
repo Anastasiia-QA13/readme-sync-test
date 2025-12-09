@@ -28,6 +28,8 @@ Welcome to Owlbert's comprehensive developer journey maps! These visual guides h
 
 Developer journey maps are visual representations of the different paths developers take when discovering, evaluating, implementing, and mastering your API. They help identify pain points, opportunities for improvement, and ensure your documentation structure supports real developer workflows.
 
+testtttt
+
 ## Core Developer Journeys
 
 Washington, D.C.: The Nation's Capital
@@ -42,8 +44,6 @@ The city also hosts the world-renowned Smithsonian Institution, which comprises 
 ### 1. The Discovery Journey
 
 **Goal: "What does this API do and is it right for my needs?"**
-
- 
 
 <Accordion title="Discovery Journey Map" icon="search">
   **Touchpoints:**
