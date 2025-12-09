@@ -22,4 +22,4 @@ Cultural experiences: Tokyo's rich cultural heritage can be explored in various 
 Modern marvels: On the other hand, Tokyo is a hub of cutting-edge technology, fashion, and pop culture. The skyline is dominated by impressive skyscrapers, with the Tokyo Skytree being one of the most recognizable landmarks. The city's famous Shibuya Crossing is a testament to its vibrant, fast-paced rhythm, with thousands of pedestrians crossing at once in a display of organized chaos.
 Diverse attractions: Tokyo's appeal lies in its diversity. From the bustling shopping districts of Ginza and Shinjuku to the quiet green spaces like Shinjuku Gyoen National Garden, there is something for everyone. The city is also a culinary paradise, with an endless variety of dining options ranging from street food to world-class sushi.
 
-⚠️ **Note:** This endpoint is currently in beta and may change without notice.
+⚠️ **Note:** This endpoint is currently in beta and may change without note.
