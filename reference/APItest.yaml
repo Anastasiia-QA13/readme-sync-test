@@ -148,7 +148,7 @@ components:
         createdAt:
           type: string
           format: date-time
-          example: '2025-11-06T10:15:30Z'
+          example: '2025-11-06T10:15:30.000Z'
     Error:
       type: object
       required:
@@ -161,4 +161,3 @@ components:
         message:
           type: string
           example: email is invalid
-x-readme: {}
