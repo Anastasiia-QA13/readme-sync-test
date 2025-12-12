@@ -330,13 +330,7 @@ _These journey maps are based on research and best practices from successful dev
 
 <br />
 
-}}}}}}}}
-
-}}}}}}  
-
 <br />
-
-}}}}}}
 
 <br />
 
