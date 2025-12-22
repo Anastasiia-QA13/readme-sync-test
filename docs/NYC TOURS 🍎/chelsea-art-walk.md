@@ -34,6 +34,6 @@ next:
 
 <AvailableInFrench />
 
-test
+<br />
 
 <br />
