@@ -60,11 +60,12 @@ Amsterdam's compact size makes it incredibly walkable, but the city offers vario
 Amsterdam's food scene has evolved far beyond traditional Dutch fare, though local specialties remain beloved:
 
 **Traditional Dutch Foods**:
-- **Stroopwafels**: Thin waffle cookies with caramel syrup filling
-- **Bitterballen**: Deep-fried meat ragout balls, perfect with beer
-- **Herring**: Fresh raw herring served with onions and pickles
-- **Dutch Cheese**: Try aged Gouda or Edam at local cheese shops
-- **Poffertjes**: Small, fluffy pancakes dusted with powdered sugar
+
+* **Stroopwafels**: Thin waffle cookies with caramel syrup filling
+* **Bitterballen**: Deep-fried meat ragout balls, perfect with beer
+* **Herring**: Fresh raw herring served with onions and pickles
+* **Dutch Cheese**: Try aged Gouda or Edam at local cheese shops
+* **Poffertjes**: Small, fluffy pancakes dusted with powdered sugar
 
 **International Cuisine**: Amsterdam's colonial history and diverse population have created an incredible international food scene, particularly Indonesian rijsttafel (rice table) and Surinamese cuisine.
 
@@ -105,3 +106,5 @@ Amsterdam hosts numerous festivals throughout the year:
 **Winter (December-March)**: Quieter atmosphere, cozy brown café culture, and possible ice skating on the canals during cold snaps.
 
 Whether you're interested in world-class art, historic architecture, vibrant nightlife, or simply soaking up the unique atmosphere of this remarkable city, Amsterdam offers an unforgettable experience that perfectly balances its rich heritage with modern innovation.
+
+testtttt
