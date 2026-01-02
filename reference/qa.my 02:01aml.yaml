@@ -1,0 +1,73 @@
+openapi: 3.0.3
+info:
+  title: Example Product API
+  version: 1.0.0
+  description: This is a new sample API spec for testing creation of a new API definition.
+servers:
+  - url: https://api.example.com/v1
+paths:
+  /products:
+    get:
+      summary: Get all products
+      description: Retrieves a list of available products.
+      responses:
+        '200':
+          description: List of products
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    id:
+                      type: integer
+                    name:
+                      type: string
+                    price:
+                      type: number
+                      format: float
+    post:
+      summary: Add a new product
+      description: Creates a new product in the catalog.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - name
+                - price
+              properties:
+                name:
+                  type: string
+                price:
+                  type: number
+                  format: float
+      responses:
+        '201':
+          description: Product created successfully
+  /products/{id}:
+    get:
+      summary: Get product by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                  name:
+                    type: string
+                  price:
+                    type: number
