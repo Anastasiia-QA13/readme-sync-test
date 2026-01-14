@@ -12,6 +12,4 @@ next:
 ---
 :) Hola y bienvenidos!
 
-<AvailableInSpanish />
-
-test
+<br />
