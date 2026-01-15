@@ -16,3 +16,5 @@ export default function ExampleNote({ children }) {
     </div>
   );
 }
+
+;
