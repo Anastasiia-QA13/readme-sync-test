@@ -328,16 +328,16 @@ Ready to improve your developer experience using journey mapping?
 
 _These journey maps are based on research and best practices from successful developer documentation programs. Adapt them to your specific API and developer community needs._
 
-Test 
+<br />
 
 <br />
 
-Test
+<br />
+
+<br />
+
+<br />
 
 <br />
 
 test
-
-<br />
-
-<br />
