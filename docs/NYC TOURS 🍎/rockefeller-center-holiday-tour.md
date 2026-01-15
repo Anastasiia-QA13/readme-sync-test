@@ -20,6 +20,4 @@ Nothing quite says, "It's holiday season in New York City" like the annual light
 
 <br />
 
-test
-
 <br />
