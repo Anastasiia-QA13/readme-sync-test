@@ -1,6 +1,6 @@
 ---
 title: Windy City Mixtape with DJ Owlbert
-excerpt: ''
+excerpt: Test test test
 deprecated: false
 hidden: false
 metadata:
